@@ -1,8 +1,8 @@
 title: Trends through the Typography
 description: A website describing the features of typography in fashion brand logos
 footer_text: Copyright 2021 Ellie Hunt
-header_feature_image: ../uploads/pages.jpg
-header_text: My Dream Blog
+header_feature_image: ../uploads/shopfront.png
+header_text: ""
 header_text_color: "#ffffff"
 bannerheight: 20vmax
 navbarheight: 55px
@@ -11,3 +11,4 @@ favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: false
 upzoom: true
+items: []
