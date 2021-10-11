@@ -1,10 +1,10 @@
 title: Trends through the Typography
 description: A website describing the features of typography in fashion brand logos
 footer_text: Copyright 2021 Ellie Hunt
-header_feature_image: ../uploads/jo-malone-banner.png
+header_feature_image: ../uploads/shopfont-5.png
 header_text: ""
 header_text_color: "#ffffff"
-bannerheight: 20vmax
+bannerheight: 10vmax
 navbarheight: 55px
 logo: ../uploads/logo-edited.png
 favicon: /uploads/favicon.ico
