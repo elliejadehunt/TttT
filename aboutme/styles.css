@@ -1,0 +1,86 @@
+p{
+}
+
+body {
+
+    background-color: ffe0cf;
+}
+
+.left {
+float: left;
+height: 150px;
+width: 150px;
+
+}
+
+.bigtext
+{
+    font-size: 30px;
+    text-align: center;
+}
+
+.bigt2
+{
+    font-size: 25px;
+    text-align: center;
+}
+
+.right
+{
+    float: inline-start;
+}
+
+h1{
+    
+    font-family:cursive;
+    font-size: 50px;
+    text-align: center;
+   
+}
+img{
+  
+
+    width: 256px;
+    height: 320cspx;
+    align-content: center;
+}
+
+li {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 15px;
+list-style-type: none;
+
+}
+
+.who {
+    font-size: 25px;
+    text-align: center;
+    background-color: white;
+}
+
+.who2 {
+    font-size: 20px;
+}
+
+.why {
+    font-size: 25px;
+    text-align: center;
+    background-color: white;
+}
+
+.why2 {
+    font-size: 20px;
+}
+
+.why3 {
+    font-size: 25px;
+    background-color: white;
+}
+.why4 {
+    font-size: 20px;
+}
+
+.connect {
+    font-size: 25px;
+    background-color: white;
+}
