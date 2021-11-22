@@ -6,7 +6,7 @@ image: ../uploads/blog-im1.webp
 title_color: "#ffffff"
 comments: false
 ---
-For the big players in fashion, branding and logo Is at the heart. Consumers of brands such as Fendi and Versace would not spend thousands on designs with a logo plastered all over them if that logo was not effective, stylish, authentic and memorable. So what actually makes a good logo?  
+For the big players in fashion, branding and logo is at the heart. Consumers of brands such as Fendi and Versace would not spend thousands on designs with a logo plastered all over them if that logo was not effective, stylish, authentic and memorable. So what actually makes a good logo?  
 
 Analysing logos can help us to understand what makes an effective one and how it can manufacture huge success and recognition or that brand. This is an important skill to know for future entrepreneurs, designers, marketers and more.
 
