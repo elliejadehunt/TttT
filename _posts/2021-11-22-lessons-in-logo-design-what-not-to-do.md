@@ -16,4 +16,12 @@ The first example is the well-known clothing company GAP. Gap changed their logo
 
 ![Sourced from Adwiz Branding](../uploads/screenshot-2021-11-22-at-19.05.15.png)
 
-Whilst the old logo was simple and effective with contrasting colours for boldness and a naroow, high contrast srif font for a xlassic appearnece, the changed logo failed in all aspects.
+Whilst the old logo was simple and effective with contrasting colours for boldness and a narrow, high contrast serif font for a classic appearance, the changed logo failed in many aspects.
+
+The sans serif, lowercase letters make the logo look seriously underwhelming and plain, give the impression of a less than mediocre brand. The square in the corner looks out of place, un-cohesive with the text as it's not even the same colour, too contrasted with the rounded letters and not positioned effectively in accordance to the text. It's no wonder they reverted to the original logo. 
+
+Another case is Zara. 
+
+![Sourced from Retail Asia ](../uploads/zara.jpeg)
+
+The brand changed their logo recently from the wide spaced serif font to a very squashed looking version of the prior logo. Whilst it's kept the same elegant features such as the serif and high contrast, it certainly looks more messy and less effective than their original. Not the best choice, Zara!
